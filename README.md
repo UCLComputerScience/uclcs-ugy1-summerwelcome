@@ -20,7 +20,7 @@ Please note that, using this option, you will not be able to save your work and 
 If you want to save your work and return to it later, start by creating a free account on [https://notebooks.azure.com](https://notebooks.azure.com). 
 
 Then access the notebook hosted on the Microsoft Azure cloud service at:
-[https://notebooks.azure.com/snicholson/projects/ucl-computer-science-data-scie](https://notebooks.azure.com/snicholson/projects/ucl-computer-science-data-scie)
+[https://notebooks.azure.com/liciacapra/projects/ucl-cs-ug-summer-welcome-algor](https://notebooks.azure.com/liciacapra/projects/ucl-cs-ug-summer-welcome-algor)
 
 You should first 'clone' the notebook. 
 To do this, after clicking the above link, click on the link to the notebook ('incoming_students_algorithms101.ipynb'). 
