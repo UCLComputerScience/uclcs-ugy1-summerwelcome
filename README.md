@@ -13,12 +13,15 @@ Once you have the notebook open using one of the following methods, you should f
 ### 1. Using the notebook in the Binder cloud service (no account required)
 If you do not want to create an account, then you can access the notebook using [Binder](https://mybinder.org) 
 at [https://mybinder.org/v2/gh/nicholsons/cs_incoming_datavis.git/master?filepath=incoming_students_data_visualisation.ipynb](https://mybinder.org/v2/gh/nicholsons/cs_incoming_datavis.git/master?filepath=incoming_students_data_visualisation.ipynb). 
+
 Please note that, using this option, you will not be able to save your work and return to it later.
 
 ### 2. Using the notebook in the Microsoft Azure Notebook cloud service (free account required)
 If you want to save your work and return to it later, start by creating a free account on [https://notebooks.azure.com](https://notebooks.azure.com). 
+
 Then access the notebook hosted on the Microsoft Azure cloud service at:
 [https://notebooks.azure.com/snicholson/projects/ucl-computer-science-data-scie](https://notebooks.azure.com/snicholson/projects/ucl-computer-science-data-scie)
+
 You should first 'clone' the notebook. 
 To do this, after clicking the above link, click on the link to the notebook ('incoming_students_algorithms101.ipynb'). 
 You should see a button in the top right corner of the screen with the word 'clone'. 
