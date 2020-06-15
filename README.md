@@ -1,8 +1,7 @@
 # Algorithms 101 
 This activity provides a self-study introduction to Algorithms. 
 It has been created for incoming Undergraduate Computer Science students at UCL. 
-Its purpose is to give you some first insights into one of the fundamental topics you will learn during your first year undergraduate course (COMP0005 - Algorithms). 
-As Linus Torvalds, the creator of the Linux kernel, said when talking about algorithms: “Bad programmers worry about the code. Good programmers worry about data structures and their relationships.”
+Its purpose is to give you some first insights into one of the fundamental topics you will learn during your first year undergraduate degree programme (COMP0005 - Algorithms). 
 
 ## Getting started
 This project uses a cloud service Jupyter notebook. 
