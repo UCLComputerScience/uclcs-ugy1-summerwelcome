@@ -12,7 +12,7 @@ Once you have the notebook open using one of the following methods, you should f
 
 ### 1. Using the notebook in the Binder cloud service (no account required)
 If you do not want to create an account, then you can access the notebook using [Binder](https://mybinder.org) 
-at [https://mybinder.org/v2/gh/nicholsons/cs_incoming_datavis.git/master?filepath=incoming_students_data_visualisation.ipynb](https://mybinder.org/v2/gh/nicholsons/cs_incoming_datavis.git/master?filepath=incoming_students_data_visualisation.ipynb). 
+at [https://mybinder.org/v2/gh/liciacapra/uclcs-ugy1-summerwelcome-algorithms/master](https://mybinder.org/v2/gh/liciacapra/uclcs-ugy1-summerwelcome-algorithms/master). 
 
 Please note that, using this option, you will not be able to save your work and return to it later.
 
