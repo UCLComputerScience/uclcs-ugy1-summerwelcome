@@ -6,7 +6,7 @@ The first is an introduction to Algorithms. The purpose of this activity is to g
 The second is an introduction to Data Visualisation. Its purpose is to give you some insight into one of the many ways that the skills you will learn on your undergraduate course can be used in 'real' life.
 
 ## Getting started
-This project uses a cloud service Jupyter notebook. 
+These activities use a cloud service Jupyter notebook.
 
 When you open one of the following links, the cloud service creates a virtual coding environment in the cloud for you to use so you don't need to install anything on your machine. 
 
