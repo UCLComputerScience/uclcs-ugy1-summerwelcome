@@ -19,9 +19,8 @@ If you do not want to create an account, then you can access the notebooks using
 
 To access the notebooks use the following links, remember it may take a few minutes to start:
 
-[Algorithms 101](https://mybinder.org/v2/gh/UCLComputerScience/uclcs-ugy1-summerwelcome/master?filepath=algorithms101.ipynb). 
-
-[Data Visualisation](https://mybinder.org/v2/gh/UCLComputerScience/uclcs-ugy1-summerwelcome/master?filepath=data_visualisation.ipynb).
+- [Algorithms 101](https://mybinder.org/v2/gh/UCLComputerScience/uclcs-ugy1-summerwelcome/master?filepath=algorithms101.ipynb)
+- [Data Visualisation](https://mybinder.org/v2/gh/UCLComputerScience/uclcs-ugy1-summerwelcome/master?filepath=data_visualisation.ipynb)
 
 
 ### 2. Using the notebook in the Microsoft Azure Notebook cloud service (free account required)
