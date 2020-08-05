@@ -44,8 +44,8 @@ You will need to investigate options for doing this yourself depending on your o
 You will need to install pysort in your local environment which you should be able to do with pip, e.g.: 
 ```python
 pip install pysort
-pip install pandas==1.0.3
-pip install plotly==4.8.0
+pip install pandas
+pip install plotly
 ```
 
 ## Getting help
