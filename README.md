@@ -1,19 +1,28 @@
-# Algorithms 101 
-This activity provides a self-study introduction to Algorithms. 
-It has been created for incoming Undergraduate Computer Science students at UCL. 
-Its purpose is to give you some first insights into one of the fundamental topics you will learn during your first year undergraduate degree programme (COMP0005 - Algorithms). 
+# Welcome to UCL Computer Science!
+This repository provides a number of self-study activities created for incoming Undergraduate Computer Science students at UCL. 
+
+The first is an introduction to Algorithms. The purpose of this activity is to give you some first insights into one of the fundamental topics you will learn during your first year undergraduate degree programme (COMP0005 - Algorithms). 
+
+The second is an introduction to Data Visualisation. Its purpose is to give you some insight into one of the many ways that the skills you will learn on your undergraduate course can be used in 'real' life.
 
 ## Getting started
 This project uses a cloud service Jupyter notebook. 
+
 When you open one of the following links, the cloud service creates a virtual coding environment in the cloud for you to use so you don't need to install anything on your machine. 
+
 It will take a few minutes for this 'environment' to be created. 
-Once you have the notebook open using one of the following methods, you should follow the instructions in the notebook itself.
+
+Once you have the notebooks open using one of the following methods, you should follow the instructions in the notebook itself.
 
 ### 1. Using the notebook in the Binder cloud service (no account required)
-If you do not want to create an account, then you can access the notebook using [Binder](https://mybinder.org) 
-at [https://mybinder.org/v2/gh/liciacapra/uclcs-ugy1-summerwelcome-algorithms/master?filepath=incoming_students_algorithms101.ipynb](https://mybinder.org/v2/gh/liciacapra/uclcs-ugy1-summerwelcome-algorithms/master?filepath=incoming_students_algorithms101.ipynb). 
+If you do not want to create an account, then you can access the notebooks using a service called [Binder](https://mybinder.org). Please note that, using this option, once you exit from Binder any work will not be saved. If you wish to save your work you will need to save and download the notebook to your own computer before you exit Binder.
 
-Please note that, using this option, you will not be able to save your work and return to it later.
+To access the notebooks use the following links, remember it may take a few minutes to start:
+
+[Algorithms 101](https://mybinder.org/v2/gh/UCLComputerScience/uclcs-ugy1-summerwelcome/master?filepath=incoming_students_algorithms101.ipynb). 
+
+[Data Visualisation](https://mybinder.org/v2/gh/UCLComputerScience/uclcs-ugy1-summerwelcome/master?filepath=incoming_students_algorithms101.ipynb).
+
 
 ### 2. Using the notebook in the Microsoft Azure Notebook cloud service (free account required)
 If you want to save your work and return to it later, start by creating a free account on [https://notebooks.azure.com](https://notebooks.azure.com). 
@@ -33,21 +42,26 @@ You will need to investigate options for doing this yourself depending on your o
 You will need to install pysort in your local environment which you should be able to do with pip, e.g.: 
 ```python
 pip install pysort
+pip install pandas==1.0.3
+pip install plotly==4.8.0
 ```
 
 ## Getting help
-Ask for help by posting a message on Moodle at {TODO: Add a link to an appropriate discussion forum}.
+Ask for help by posting a message in the [Discussion forum on UCL Extend](https://extend.ucl.ac.uk/mod/forum/view.php?id=44916).
 
 ## Feedback and corrections
-This notebook is maintained at [https://github.com/liciacapra/uclcs-ugy1-summerwelcome-algorithms](https://github.com/liciacapra/uclcs-ugy1-summerwelcome-algorithms). 
-
-Please report suggestions or errors at [https://github.com/liciacapra/uclcs-ugy1-summerwelcome-algorithms/issues](https://github.com/liciacapra/uclcs-ugy1-summerwelcome-algorithms/issues).
-
-This notebook was developed by [Licia Capra](mailto:l.capra@ucl.ac.uk).
+Please report suggestions or errors at [https://github.com/UCLComputerScience/uclcs-ugy1-summerwelcome/issues](https://github.com/UCLComputerScience/uclcs-ugy1-summerwelcome/issues). This repository is maintained by [Licia Capra](mailto:l.capra@ucl.ac.uk) and [Sarah Sanders](mailto:sarah.sanders@ucl.ac.uk).
 
 ## Data protection and privacy
-TODO: Add statement as to the extent to which MS Azure Notebooks and Binder comply with UCL data. Warn students not to put any personal data in their notebook.
+You should not save any personal data in a notebook. Personal data is any data that could be used to identify you.
 
 [Information on privacy for the Binder service can be found here](https://mybinder.readthedocs.io/en/latest/faq.html).
 
 [Information on privacy for the Microsoft Azure Notebooks service can be found here](https://privacy.microsoft.com/en-gb/privacystatement).
+
+## Acknowledgements (data visualisation notebook)
+The introductory video in the data visualisation notebook is a TED talk given by Hans Rosling called ['The best stats you have ever seen'](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare).
+
+The code examples in the notebook make use of the [Plotly Express](https://plotly.com/python/plotly-express/) library. This library provides direct access to the Gapminder data set. There are also examples for the use of the Gapminder data in their help and documentation.
+
+The Gapminder data can also be accessed freely at [Gapminder.org](https://www.gapminder.org/data/). The 'math_achievement_8th_grade.csv' file in this repository was downloaded from Gapminder.
