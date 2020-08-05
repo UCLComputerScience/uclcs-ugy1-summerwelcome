@@ -19,22 +19,27 @@ If you do not want to create an account, then you can access the notebooks using
 
 To access the notebooks use the following links, remember it may take a few minutes to start:
 
-[Algorithms 101](https://mybinder.org/v2/gh/UCLComputerScience/uclcs-ugy1-summerwelcome/master?filepath=incoming_students_algorithms101.ipynb). 
+[Algorithms 101](https://mybinder.org/v2/gh/UCLComputerScience/uclcs-ugy1-summerwelcome/master?filepath=algorithms101.ipynb). 
 
-[Data Visualisation](https://mybinder.org/v2/gh/UCLComputerScience/uclcs-ugy1-summerwelcome/master?filepath=incoming_students_algorithms101.ipynb).
+[Data Visualisation](https://mybinder.org/v2/gh/UCLComputerScience/uclcs-ugy1-summerwelcome/master?filepath=data_visualisation.ipynb).
 
 
 ### 2. Using the notebook in the Microsoft Azure Notebook cloud service (free account required)
-If you want to save your work and return to it later, start by creating a free account on [https://notebooks.azure.com](https://notebooks.azure.com). 
+If you want to save your work and return to it later, start by creating a free account on [https://notebooks.azure.com](https://notebooks.azure.com). Though please note that the Azure Notebooks service is being withdrawn on 9th October so if you wish to access your work beyond that date you will need to download the files.
 
-Then access the notebook hosted on the Microsoft Azure cloud service at:
-[https://notebooks.azure.com/liciacapra/projects/ucl-cs-ug-summer-welcome-algor](https://notebooks.azure.com/liciacapra/projects/ucl-cs-ug-summer-welcome-algor)
+Then access the notebooks hosted on the Microsoft Azure cloud service at:
 
-You should first 'clone' the notebook. 
-To do this, after clicking the above link, click on the link to the notebook ('incoming_students_algorithms101.ipynb'). 
-You should see a button in the top right corner of the screen with the word 'clone'. 
+[https://notebooks.azure.com/snicholson/projects/uclcs-ugy1-summerwelcome](https://notebooks.azure.com/snicholson/projects/uclcs-ugy1-summerwelcome)
+
+You should first 'clone' the files. 
+To do this, after clicking the above link, you should see a button in the top right corner of the screen with the word 'clone'. 
 Press this to create a copy (if you are not already logged in to Microsoft Azure Notebooks and you didn't already create an account you will be prompted to create an account now). 
 You may need to wait a few minutes during which a copy of the notebook is made and the 'environment' is created for you.
+
+You can then access each of the notebooks by clicking on the relevant file name:
+
+- Algorithms 101: algorithms101.ipynb	
+- Data Visualisation: data_visualisation.ipynb
 
 ### 3. Using a locally installed Python Jupyter notebook environment
 If you already have a locally installed Python development environment and code editor, then you may be able to work out how to use the Jupyter notebook on your own machine. 
