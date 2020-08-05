@@ -1,9 +1,11 @@
 # Welcome to UCL Computer Science!
 Here you will find a number of self-study activities created for incoming Undergraduate Computer Science students at UCL. 
 
-The first is an introduction to Algorithms. The purpose of this activity is to give you some first insights into one of the fundamental topics you will learn during your first year undergraduate degree programme (COMP0005 - Algorithms). 
+The first is an introduction to Data Visualisation. Its purpose is to give you some insight into one of the many ways that the skills you will learn on your undergraduate course can be used in 'real' life.
 
-The second is an introduction to Data Visualisation. Its purpose is to give you some insight into one of the many ways that the skills you will learn on your undergraduate course can be used in 'real' life.
+The second is an introduction to Algorithms. The purpose of this activity is to give you some first insights into one of the fundamental topics you will learn during your first year undergraduate degree programme (COMP0005 - Algorithms).
+
+While you could do the activities in any order, if you have never used Jupyter or Python you might find it easier to start with the data visualisation activity.
 
 ## Getting started
 These activities use a cloud service Jupyter notebook.
@@ -19,8 +21,8 @@ If you do not want to create an account, then you can access the notebooks using
 
 To access the notebooks use the following links, remember it may take a few minutes to start:
 
-- [Algorithms 101](https://mybinder.org/v2/gh/UCLComputerScience/uclcs-ugy1-summerwelcome/master?filepath=algorithms101.ipynb)
 - [Data Visualisation](https://mybinder.org/v2/gh/UCLComputerScience/uclcs-ugy1-summerwelcome/master?filepath=data_visualisation.ipynb)
+- [Algorithms 101](https://mybinder.org/v2/gh/UCLComputerScience/uclcs-ugy1-summerwelcome/master?filepath=algorithms101.ipynb)
 
 
 ### 2. Using the notebook in the Microsoft Azure Notebook cloud service (free account required)
@@ -35,8 +37,8 @@ You may need to wait a few minutes during which a copy of the notebook is made a
 
 You can then access each of the notebooks by clicking on the relevant file name from within Azure:
 
-- Algorithms 101: algorithms101.ipynb	
 - Data Visualisation: data_visualisation.ipynb
+- Algorithms 101: algorithms101.ipynb	
 
 ### 3. Using a locally installed Python Jupyter notebook environment
 If you already have a locally installed Python development environment and code editor, then you may be able to work out how to use the Jupyter notebook on your own machine. 
