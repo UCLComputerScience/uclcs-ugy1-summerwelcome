@@ -24,7 +24,7 @@ To access the notebooks use the following links, remember it may take a few minu
 
 
 ### 2. Using the notebook in the Microsoft Azure Notebook cloud service (free account required)
-If you want to save your work and return to it later, start by creating a free account on [https://notebooks.azure.com](https://notebooks.azure.com). Though please note that the Azure Notebooks service is being withdrawn on 9th October so if you wish to access your work beyond that date you will need to download the files.
+If you want to save your work and return to it later, start by creating a free account on [Azure Notesbooks](https://notebooks.azure.com). Please note that the Azure Notebooks service is being withdrawn on 9th October so if you want to access your work beyond that date you will need to download the files.
 
 Then access the notebooks hosted on the Microsoft Azure cloud service at: [https://notebooks.azure.com/snicholson/projects/uclcs-ugy1-summerwelcome](https://notebooks.azure.com/snicholson/projects/uclcs-ugy1-summerwelcome)
 
@@ -52,7 +52,7 @@ pip install plotly==4.8.0
 Ask for help by posting a message in the [Discussion forum on UCL Extend](https://extend.ucl.ac.uk/mod/forum/view.php?id=44916).
 
 ## Feedback and corrections
-Please report suggestions or errors at [https://github.com/UCLComputerScience/uclcs-ugy1-summerwelcome/issues](https://github.com/UCLComputerScience/uclcs-ugy1-summerwelcome/issues). This repository is maintained by [Licia Capra](mailto:l.capra@ucl.ac.uk) and [Sarah Sanders](mailto:sarah.sanders@ucl.ac.uk).
+Please [report suggestions or errors here](https://github.com/UCLComputerScience/uclcs-ugy1-summerwelcome/issues). This repository is maintained by [Licia Capra](mailto:l.capra@ucl.ac.uk) and [Sarah Sanders](mailto:sarah.sanders@ucl.ac.uk).
 
 ## Data protection and privacy
 You should not save any personal data in a notebook. Personal data is any data that could be used to identify you.
