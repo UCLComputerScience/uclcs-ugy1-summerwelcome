@@ -24,7 +24,7 @@ To access the notebooks use the following links, remember it may take a few minu
 
 
 ### 2. Using the notebook in the Microsoft Azure Notebook cloud service (free account required)
-If you want to save your work and return to it later, start by creating a free account on [Azure Notesbooks](https://notebooks.azure.com). Please note that the Azure Notebooks service is being withdrawn on 9th October so if you want to access your work beyond that date you will need to download the files.
+If you want to save your work and return to it later, start by creating a free account on [Azure Notebooks](https://notebooks.azure.com). Please note that the Azure Notebooks service is being withdrawn on 9th October so if you want to access your work beyond that date you will need to download the files.
 
 Then access the notebooks hosted on the Microsoft Azure cloud service at: [https://notebooks.azure.com/snicholson/projects/uclcs-ugy1-summerwelcome](https://notebooks.azure.com/snicholson/projects/uclcs-ugy1-summerwelcome)
 
