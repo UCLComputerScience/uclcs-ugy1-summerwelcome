@@ -1,5 +1,5 @@
 # Welcome to UCL Computer Science!
-This repository provides a number of self-study activities created for incoming Undergraduate Computer Science students at UCL. 
+Here you will find a number of self-study activities created for incoming Undergraduate Computer Science students at UCL. 
 
 The first is an introduction to Algorithms. The purpose of this activity is to give you some first insights into one of the fundamental topics you will learn during your first year undergraduate degree programme (COMP0005 - Algorithms). 
 
